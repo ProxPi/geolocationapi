@@ -21,7 +21,7 @@ IP Geolocation API is built upon Starlette to achieve high throughput. The curre
 ## Development
 #### Install packages
 ```shell
-pipenv install
+pip install -r requirements.txt
 ```
 
 #### Running the server
