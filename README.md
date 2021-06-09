@@ -2,7 +2,7 @@
 
 IP Geolocation API is a free service for geocoding requests.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/madisvain/geolocationapi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ProxPi/geolocationapi)
 
 Request geocoding is done via [CloudFlare IP Geolocation](https://support.cloudflare.com/hc/en-us/articles/200168236-What-does-Cloudflare-IP-Geolocation-do-) to which additional information about the geolocated country is provided.
 
